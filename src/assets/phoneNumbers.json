@@ -1,0 +1,7 @@
+{ 
+	"phoneNumbers": [
+      {"countryNum": "7", "operatorNum": "999", "restOfTheNumber": "8925651"},
+      {"countryNum": "5", "operatorNum": "982", "restOfTheNumber": "5821895"},
+      {"countryNum": "6", "operatorNum": "953", "restOfTheNumber": "6713946"}
+    ]
+}

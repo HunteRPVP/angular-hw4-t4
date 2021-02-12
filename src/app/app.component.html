@@ -1,0 +1,6 @@
+{{phones | phone}}
+<p>Введите номер телефона</p>
+<p>
+  <input #new type="text" [(ngModel)]="newPhone">
+  <button type="button" (click)='addNewPhone(newPhone); new.value=""'>Добавить</button>
+</p>
